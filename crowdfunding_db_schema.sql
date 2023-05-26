@@ -4,6 +4,8 @@ DROP TABLE Contacts;
 DROP TABLE Category;
 DROP TABLE Subcategory;
 ---------------------------------------------------------------------
+-- initialize the database
+CREATE DATABASE crowdfunding_db
 
 -- initialize tables (4 tables)
 CREATE TABLE Category (
